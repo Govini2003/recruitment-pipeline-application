@@ -2,6 +2,7 @@
 
 A full-stack recruitment pipeline application built with React and Node.js, featuring automated email notifications, interview scheduling, and candidate tracking.
 
+
 ## Features
 
 - 📋 Kanban-style recruitment pipeline interface
