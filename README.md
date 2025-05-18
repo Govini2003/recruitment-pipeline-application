@@ -13,27 +13,6 @@ A full-stack recruitment pipeline application built with React and Node.js, feat
 - 📱 Responsive design
 - 🔌 RESTful API
 
-## Project Structure
-
-```
-recruitment-pipeline/
-├── frontend/          # React frontend application
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Automation.js    # Automation features
-│   │   │   ├── CandidateForm.js # Candidate management
-│   │   │   └── ...
-│   │   └── App.js
-│   └── package.json
-└── backend/           # Node.js backend API
-    ├── routes/
-    │   ├── automation.js  # Automation endpoints
-    │   └── candidates.js  # Candidate endpoints
-    ├── models/
-    │   └── Candidate.js
-    └── server.js
-```
-
 ## Setup Instructions
 
 ### Backend Setup
