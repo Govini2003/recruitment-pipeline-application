@@ -12,6 +12,7 @@ import Activity from './components/Activity';
 import ApplicationForm from './components/ApplicationForm';
 import Automation from './components/Automation';
 
+
 const AppContainer = styled.div`
   display: flex;
   flex-direction: column;
